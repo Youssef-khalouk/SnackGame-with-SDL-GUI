@@ -3,6 +3,8 @@ snack game using sdl as Graphic User Interface.
 
 #MakeFile:
 
+this makefile is for windows using msys2 to install SDL2, and this code is multiplatform.
+
     # Compiler and flags
     CC = gcc
     CFLAGS = -I/mingw64/include/SDL2
